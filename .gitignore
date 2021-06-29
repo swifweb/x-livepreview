@@ -1,0 +1,6 @@
+.DS_Store
+*.xcuserdatad
+Podfile
+Podfile.*
+*.xcworkspace
+Package.resolved

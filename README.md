@@ -1,6 +1,8 @@
 # x-livepreview
 🖥 Live Preview extension for Xcode
 
+![screenshot](https://user-images.githubusercontent.com/1272610/123971359-06c38f00-d9cb-11eb-927f-8e24dbaf1e40.jpeg)
+
 _Find latest compiled app in releases or compile it yourself_
 
 - move the app into your `Applications` folder
